@@ -1,2 +1,1 @@
-# PrepCourse-Henry-ene
-esto es un repositorio del PrepCourse henry modulo 2
+prueba de como crear un repositorio y clonarlo a mi computadora
